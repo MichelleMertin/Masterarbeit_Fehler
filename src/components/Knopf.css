@@ -1,0 +1,14 @@
+.knopf-container {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.knopf-button {
+  margin: 5px;
+  border-radius: 25px;
+  padding: 8px;
+  border-color: black;
+  background: transparent;
+  text-align: center;
+}
